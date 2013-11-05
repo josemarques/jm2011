@@ -1,9 +1,19 @@
 Theme Name: jm2011
+
 Theme URI: http://josemarqu.es
-Description: Based on the <a href="http://html5boilerplate.com">HTML5 Boilerplate</a> and Bruce Lawson's <a href="http://html5doctor.com/designing-a-blog-with-html5/">Designing a Blog with HTML5</a>.
+
+Description: Based on the HTML5 Boilerplate [http://html5boilerplate.com] and Bruce Lawson's Designing a 
+
+Blog with HTML5 [http://html5doctor.com/designing-a-blog-with-html5/]
+
 Version: 1.1
+
 Author: José Marques & original Boilerplate authors
+
 Author http://josemarqu.es
+
 Tags: single page
+
 License: GNU General Public License v2.0
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
